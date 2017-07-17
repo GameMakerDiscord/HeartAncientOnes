@@ -1,4 +1,7 @@
+## Note: This is an UNFINISHED Entry for [GM48 23](https://www.gm48.net)... here's some notes on how it should've played.
+
 # <3 Ancient Ones
+
 a cult management simulator
 
 the player manages the chorazos cult, attempting to awaken yog-sothoth
