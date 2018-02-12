@@ -4,6 +4,8 @@
 
 a cult management simulator
 
+Maintained by: Babyjeans
+
 ![hao](http://i.imgur.com/FiuR1xe.gif)
 
 the player manages the chorazos cult, attempting to awaken yog-sothoth
