@@ -4,7 +4,7 @@
 
 a cult management simulator
 
-Maintained by: Babyjeans
+Maintained by: [babyjeans](https://twitter.com/babyj3ans/) of [rousr](http://rou.sr)
 
 ![hao](http://i.imgur.com/FiuR1xe.gif)
 
